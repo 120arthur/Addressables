@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Game Data
+  m_EditorClassIdentifier: 
+  m_GroupName: Game Data
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 84d4cde7d3534b54aa1072b8f729fc14
+  m_SerializeEntries:
+  - m_GUID: 1bceea9e6f810704a93b3185caaf5b95
+    m_Address: EnemyBulet
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 1350146266562c740a475977426e3cb1
+    m_Address: PlayerBulet
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 746e1deb449fd3345a063297f5eba11f
+    m_Address: Asteroid1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - EnemyShipAndAsteroids
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: c7fefd3c3a0e43741afdd8eb80f0a5e6
+    m_Address: Asteroid2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - EnemyShipAndAsteroids
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: aa852daaa262a064588520cff816d914
+    m_Address: Asteroid3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - EnemyShipAndAsteroids
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 117a7cdcdecb80248b541dc32065d9a4
+    m_Address: PlayerShip
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 1297ecbc92323b84da7058c4e1c66be0
+    m_Address: Assets/prefabs/vehicle_enemyShip 2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - EnemyShipAndAsteroids
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 95ec56208140d1347ba944f09cdeb614
+    m_Address: Assets/prefabs/vehicle_enemyShip 1 1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - EnemyShipAndAsteroids
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 1461122f90714f34b9b3cab38055081e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 4b5a09e058c34834182b6b7722b04f05, type: 2}
+    - {fileID: 11400000, guid: 04144495c75df6442952445b7ee2acd6, type: 2}

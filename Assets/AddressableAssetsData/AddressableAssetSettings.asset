@@ -29,6 +29,7 @@ MonoBehaviour:
   m_GroupAssets:
   - {fileID: 11400000, guid: ddd752d27ca315f40a7a32d3b947737c, type: 2}
   - {fileID: 11400000, guid: 226a76666a9189a48a3ef755ddda50c6, type: 2}
+  - {fileID: 11400000, guid: 6330391b2bbcd474ea4f04c988e35f23, type: 2}
   - {fileID: 11400000, guid: 613d5444ec35df940bcfaac793b172e5, type: 2}
   m_BuildSettings:
     m_CompileScriptsInVirtualMode: 0
@@ -85,6 +86,7 @@ MonoBehaviour:
   m_LabelTable:
     m_LabelNames:
     - prefab
+    - EnemyShipAndAsteroids
   m_SchemaTemplates: []
   m_GroupTemplateObjects:
   - {fileID: 11400000, guid: ffca54b082f8af24c83f477b522376d7, type: 2}
